@@ -10,6 +10,13 @@
       "localizedDescription": "Maeva Mobile-Client (Leseliste, Foto-Upload) für das iPhone.",
       "versions": [
         {
+          "version": "1.0.8",
+          "buildVersion": "8",
+          "date": "2026-07-30T06:32:55Z",
+          "downloadURL": "https://github.com/IsaKul2101/maeva-mobile-releases/releases/download/v8/MaevaMobile.ipa",
+          "size": 105275
+        },
+        {
           "version": "1.0.7",
           "buildVersion": "7",
           "date": "2026-07-30T06:11:39Z",
