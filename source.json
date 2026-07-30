@@ -1,0 +1,15 @@
+{
+  "name": "Maeva iOS Builds",
+  "identifier": "com.maeva.releases",
+  "apps": [
+    {
+      "name": "Maeva",
+      "bundleIdentifier": "com.maeva.mobile",
+      "developerName": "Isa",
+      "iconURL": "https://raw.githubusercontent.com/IsaKul2101/maeva-mobile-releases/main/icon.png",
+      "localizedDescription": "Maeva Mobile-Client (Leseliste, Foto-Upload) für das iPhone.",
+      "versions": []
+    }
+  ],
+  "news": []
+}
