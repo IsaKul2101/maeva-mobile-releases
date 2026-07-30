@@ -8,7 +8,15 @@
       "developerName": "Isa",
       "iconURL": "https://raw.githubusercontent.com/IsaKul2101/maeva-mobile-releases/main/icon.png",
       "localizedDescription": "Maeva Mobile-Client (Leseliste, Foto-Upload) für das iPhone.",
-      "versions": []
+      "versions": [
+        {
+          "version": "1.0.4",
+          "buildVersion": "4",
+          "date": "2026-07-30T05:40:31Z",
+          "downloadURL": "",
+          "size": 33389
+        }
+      ]
     }
   ],
   "news": []
